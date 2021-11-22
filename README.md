@@ -3,6 +3,11 @@
 
 ---
 
+* Networking
+  * 
 * Database
-  * [Types of database](types-of-database/types-of-database.md) 
-    
+  * [Types of database](database/types-of-database.md) 
+* Book List
+  * [Blogs](book-list/blogs.md)
+  * [Books](book-list/books.md)
+  * [Educational Platform](book-list/educational_platform.md)
